@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tareas_completadas">Tasks Completed</string>
+    <string name="volver">Back</string>
+    <string name="limpiar">Clean</string>
+    <string name="guardar">Save</string>
+    <string name="completado">Completed</string>
+
+    <string name="nombre">Name</string>
+    <string name="fecha">Date</string>
+</resources>
